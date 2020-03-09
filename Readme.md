@@ -21,13 +21,13 @@ Account creation with values called inside pages
 ## Login Page:
 Registration page that can swap between creating a new account or logging into an existing account. Checks are in place for duplicate account names/emails and an md5 encryption of passwords.
 
-![alt text](https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/Login-Page.png)
+![alt text](https://github.com/moloi/Providence-Software-Solution-Time-and-Attendance-Project-/blob/master/Shortscreen/Login-Page.jpg)
 
 
 ## Home Page:
 A simple page that shows only login Tab and Display News To The Employees.
 
-![alt text](https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/Shortscreen/Home-Tab.png)
+![alt text](https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/Shortscreen/Home-Tab.pjp)
 
 
 
