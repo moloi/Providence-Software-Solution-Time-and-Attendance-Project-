@@ -27,7 +27,7 @@ Registration page that can swap between creating a new account or logging into a
 ## Home Page:
 A simple page that shows only login Tab and Display News To The Employees.
 
-![alt text](https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/Shortscreen/Home-Tab.pjp)
+![alt text](https://github.com/moloi/Providence-Software-Solution-Time-and-Attendance-Project-/blob/master/Shortscreen/Home-Tab.jpg)
 
 
 
