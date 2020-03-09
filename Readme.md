@@ -4,18 +4,17 @@ A Time Time and Attendance web appilication custom built from the ground up with
 
 Account creation with values called inside pages
 
-
-
 # Sections
 
 ## Loding Page 
 
-![alt text]("https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/loading-Page.png")
+![alt text](https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/loading-Page.jpg)
 
 
 ## Display News To The Employees
 
 ![alt text]https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/Display-News.png)
+
 ![alt text](https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/Display-News2.png)
 
 
