@@ -10,7 +10,7 @@ Account creation with values called inside pages
 
 ## Loding Page 
 
-![alt text](https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/loading-Page.png)
+![alt text]("https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/loading-Page.png")
 
 
 ## Display News To The Employees
