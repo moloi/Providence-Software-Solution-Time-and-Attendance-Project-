@@ -1,0 +1,2 @@
+Id;UserId; Employee  name ; Leave  Type ; Start  Date ; End  Date ;Reason;Approver;Status;department;Contract; ID  number ;Address;Created; Escalated  To ;Signature
+42;20; Emmanuel  Mulea ; Annual  Leave ; 13  Jul  2017 ; 28  Jul  2017 ;Hy;Rajesh@providencesoftware.co.za; In  Progress ;IT;;;;2017-07-31; Not  Escalated 

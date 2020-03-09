@@ -1,0 +1,25 @@
+Id;UserId; Employee  name ;Departure;Destination; Travel  Time ;Distance;Reason;Approver;Status; Created  On 
+20;1; Sobhan  T ; Office  35 ;rtt;; 8  km ;ww;report_to; In  Progress ; 2017-05-03  12:32:45 
+21;1; Sobhan  T ;RTT;ttt;; 28  km ;rr;Prabhakar; In  Progress ; 2017-05-03  12:36:19 
+22;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; Cnr  of  Trans  karoo  Rd ;; 1Â 400  km ; Site  Visit ;undefined; In  Progress ; 2017-05-03  12:50:07 
+23;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ;rtt;; 1Â 400  km ; Site  Visit ;Prabhakar; In  Progress ; 2017-05-03  13:01:48 
+24;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ;rtt;; 1Â 400  km ; Site  Visit ;Prabhakar; In  Progress ; 2017-05-04  08:07:36 
+33;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; Cnr  Springbok ;; 28.8  km ; Client  Visit ;Prabhakar; In  Progress ; 2017-05-10  11:44:53 
+34;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; Jones  Rd,  Bartlett  AH,  Boksburg,  1451,  South  Africa ;; 28.9  km ; Client  Visit ;Prabhakar; In  Progress ; 2017-05-10  11:46:09 
+35;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; Jones  Rd,  Bartlett  AH,  Boksburg,  1451,  South  Africa ;; 28.9  km ; Client  Visit ;Prabhakar; In  Progress ; 2017-05-10  11:47:18 
+36;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; 70  Plein  St,  Johannesburg,  2001,  South  Africa ;; 18.6  km ; Client  Visit ;Prabhakar; In  Progress ; 2017-05-10  11:55:04 
+37;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; Cnr  Springbok ;; 28,8  km ; Site  Visit ;Prabhakar; In  Progress ; 2017-05-10  12:05:50 
+38;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; Cnr  Springbok ;; 28,8  km ; Site  Visit ;Prabhakar; In  Progress ; 2017-05-10  12:08:17 
+40;1; Sobhan  T ;undefined; Soshanguve,  Gauteng,  South  Africa ;; 18  km ;wr;Prabhakar; In  Progress ; 2017-05-10  14:32:30 
+41;1; Sobhan  T ; Office  35 ; Rome,  Metropolitan  City  of  Rome,  Italy ;; 33  km ;ww;Prabhakar; In  Progress ; 2017-05-10  14:37:45 
+42;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; RTT  -  Head  Office,  Boksburg,  South  Africa ;; 34  km ;34ww;Prabhakar; In  Progress ; 2017-05-10  14:48:28 
+43;1; Sobhan  T ; PSS  India ; RTT  -  Head  Office,  Boksburg,  South  Africa ;; 29  km ;rrt;Prabhakar; In  Progress ; 2017-05-10  14:56:51 
+44;1; Sobhan  T ; Office  35 ; Rtt  Group  (Pty)  Ltd,  Jones  Road,  Boksburg,  South  Africa ;; 45  km ;rr;Prabhakar; In  Progress ; 2017-05-10  15:01:01 
+45;1; Sobhan  T ; PSS  India ; Western  Australia,  Australia ;; 33  km ;2ee;Prabhakar; In  Progress ; 2017-05-10  15:02:56 
+46;1; Sobhan  T ;RTT;rtt;; 12  km ;wwrr;Prabhakar; In  Progress ; 2017-05-10  15:06:27 
+47;1; Sobhan  T ;RTT;rtt;; 12  km ;wwrr;Prabhakar;Approved; 2017-05-10  15:06:59 
+50;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; or  tambo ;; 26.2  km ;Meeting;Prabhakar; In  Progress ; 2017-05-11  09:57:54 
+51;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; or  tambo ;; 26.2  km ;Meeting;Prabhakar;Approved; 2017-05-11  09:58:11 
+52;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; Rtt  Group  (Pty)  Ltd,  Jones  Road,  Boksburg,  South  Africa ;; 28,9  km ; Site  Visit ;Prabhakar; In  Progress ; 2017-05-17  13:48:03 
+53;1; Sobhan  T ; Commercia,  Midrand,  1685,  South  Africa ; Winterveld,  Mabopane,  0198,  South  Africa ;; 82,0  km ; Site  Visit ;Prabhakar; In  Progress ; 2017-05-18  21:21:35 
+56;1; Sobhan  T ; Wendywood,  Sandton,  2090,  South  Africa ; Jones  Rd,  Bartlett  AH,  Boksburg,  1451,  South  Africa ;; 28,9  km ;Meeting;Prabhakar; In  Progress ; 2017-05-29  12:24:01 

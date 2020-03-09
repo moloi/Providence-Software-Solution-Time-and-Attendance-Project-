@@ -1,0 +1,2 @@
+Id;UserId; Employee  name ; Leave  Type ; Paid  type ; Start  Date ; End  Date ;Reason;Approver;Status;department;Contract; ID  number ;Address;Created; Escalated  To ;Signature
+43;21; Emm  nick ; Sick  Leave ;; 4  Jan  2017 ; 11  May  2017 ; Im  sick ;Rajesh@providencesoftware.co.za;Declined;HR;permanent;13456789982; 142  jskk ;2017-08-03; Not  Escalated ; Electronical  signed  Excel 

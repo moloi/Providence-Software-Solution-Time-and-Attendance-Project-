@@ -1,0 +1,167 @@
+#Calendar_table{
+	width: 100%;
+	border-collapse: collapse;
+	font-family: Georgia, Times, serif;
+}
+table td hover{
+
+}
+#Calendar {
+	width:100%;	
+	float: left;
+}
+
+#Calendar td {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+#Calendar .noevent:hover{
+	background-color: #E48B8B;
+}
+
+#Calendar .cMonth {
+	font-family: Georgia, Times, serif;
+	text-align:center;
+	font-size: 200%;
+	color:white;
+	font-style: italic;
+	margin-bottom: 5px;
+}
+
+#Calendar .today {
+    border:2px solid #ffffff;
+    background-color: #80FFBF !important;
+}
+
+#Calendar .wDays {
+	border: 1px solid #EFCCCC;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight:bold;
+	background-color: #9E3DFF;
+	font-size: 80%;
+	color: #F2FFFF;
+	height: 2.5em;
+	width:20em;
+}
+
+#Calendar .mNav {
+	font-family: Georgia, Times, serif;
+	font-weight:bold;
+	text-align:center;
+	font-size: 200%;
+	font-style: italic;
+	margin-bottom: 5px;
+}
+
+#Calendar table td a {
+	font-size: 40%;
+	text-decoration:none;
+	color: blue;
+}
+.event_tag{
+	float: left;
+	color: rgb(157, 36, 36);
+	width: 0.5em;
+	height: 0.5em;
+	z-index: 10001;
+	vertical-align: top;
+	margin-top: -10px;
+	position: relative;
+}
+
+#Calendar table td a:hover {
+	text-decoration:underline;
+}
+
+
+#Calendar .withevent {
+	text-align:center;
+	background-color:#CCC;
+	color:blue;
+	border: 1px solid #EFCCCC;
+	font-weight: bold;
+	cursor:pointer;
+}
+
+#Calendar .noevent{
+	text-align:center;
+	background-color:#FFF;
+	color:#000;
+	font-family: 'Times New Roman';
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 3px;
+	border: 1px solid #EFCCCC;
+	border-collapse: collapse;
+	height: 3em;
+	width: 3em;
+	vertical-align: middle;
+}
+.empty{
+	border: 1px solid #EFCCCC;
+	border-collapse: collapse;
+}
+
+#Events {
+	width:100%;	
+	float: left;
+}
+
+#Events h2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	margin: 5px 5px 5px 50px;
+	padding: 0;
+}
+
+#Events h4 {
+	font-family:Arial, Helvetica, sans-serif Georgia, Times, serif;
+	font-size:12px;
+	font-weight:bold;
+	margin: 10px 5px 5px 2px;
+	padding: 0;
+	color:red;
+}
+
+#Events div {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #000;
+	margin: 0px 0px 5px 50px;
+	line-height: 15px;
+}
+
+#Events .even{
+	width: 100%;
+	border: 1px solid #0e7fad;
+	color: #000000;
+	background: #CDF2F2 url('../../images/even.png') no-repeat;
+	background-position: 10px 7px;
+	margin: 5px 20px 5px 2px;
+	padding: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;	
+	border-radius: 3px;
+	-moz-box-shadow: 2px 2px #dfe1d8;
+	-webkit-box-shadow: 2px 2px #dfe1d8;
+	float: left;
+}
+
+#Events .odd{
+	width: 100%;
+	border: 1px solid #9d9c49;
+	color: #000000;
+	background: #C5F7D1 url('../../images/odd.png') no-repeat;
+	background-position: 10px 7px;
+	margin: 5px 20px 5px 2px;
+	padding: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-moz-box-shadow: 2px 2px #dfe1d8;
+	-webkit-box-shadow: 2px 2px #dfe1d8;
+	float: left;
+}
