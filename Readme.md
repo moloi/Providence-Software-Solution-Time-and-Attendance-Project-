@@ -8,14 +8,14 @@ Account creation with values called inside pages
 
 ## Loding Page 
 
-![alt text](https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/loading-Page.jpg)
+![alt text](https://github.com/moloi/Providence-Software-Solution-Time-and-Attendance-Project-/blob/master/Shortscreen/loading-Page.jpg)
 
 
 ## Display News To The Employees
 
-![alt text]https://github.com/Providence-Software-Solution-Time-and-Attendance-Project/Display-News.png)
-
 ![alt text](https://github.com/moloi/Providence-Software-Solution-Time-and-Attendance-Project-/blob/master/Shortscreen/Display-News.jpg)
+
+![alt text](https://github.com/moloi/Providence-Software-Solution-Time-and-Attendance-Project-/blob/master/Shortscreen/Display-News2.jpg)
 
 
 ## Login Page:
